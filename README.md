@@ -2,7 +2,7 @@
 Console app written in C that mimics an assembler, 
   this is a project from a programming lab class, at the university.  
      <sub>
-  for a better understanding of the program use this link : &emsp;[Article about MiniMax ]()
+  for a better understanding of the program use this link : &emsp;[instructions for the project](https://github.com/Galamrani/Assembler-Console-App/blob/main/booklet.download.pdf)
  </sub> 
   
 ## About the program
