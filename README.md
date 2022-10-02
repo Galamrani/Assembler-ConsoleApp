@@ -10,14 +10,14 @@ The Assembler is a Software that converts an assembly language code to machine c
 ## How the program works
 the program is divided into two transitions each of them has different goals.  
 
-  ### the first transition  
+  #### the first transition  
     1. check for errors in the input and if necessary create an error file with info about the error.  
       if an error occurred the second transition will not occur.
     2. build a symbol table, a symbol table is a data structure built like a table.  
       the main goal is to store info about labels in the input file, like addras, values, etc, this info will help us in the second transition.
       
       
-  ### the second transition
+  #### the second transition
     1. build the code segment and data segments with the symbol table and the input file commands.  
       the code segment is a data structure built like a table, is goal is to store the binary code for each command that is identified as a code command.  
         (code command will always be 4 bytes in binary code)  
