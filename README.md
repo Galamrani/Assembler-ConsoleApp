@@ -4,7 +4,8 @@ Assembler as console app program written in C.  this is a project in programming
   
 ## About the program
 The Assembler is a Software that converts an assembly language code to machine code, it takes basic Computer commands and converts them into Binary Code that Computer's Processor can use to perform its Basic Operations.  
-  in this project, we were given a set of assembly instructions, our goal is to build an assembler and convert instructions to a machine code file, entry file, external file and error file if necessary. (the machina code file is in binary code represented as hexadecimal code)
+  in this project, we were given a set of assembly instructions, our goal is to build an assembler that creates files from ps.as file (input file)  
+    to ps.ob (machine code ), ps.ent (entry file), ps.ext (external file) and error file if necessary. 
 
 
 ## How the program works
