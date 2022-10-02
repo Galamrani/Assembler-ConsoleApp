@@ -1,6 +1,9 @@
 # Assembler-Console-App
 Console app written in C that mimics an assembler, 
   this is a project from a programming lab class, at the university.  
+     <sub>
+  for a better understanding of the program use this link : &emsp;[Article about MiniMax ]()
+ </sub> 
   
 ## About the program
 The Assembler is a Software that converts an assembly language code to machine code, it takes basic Computer commands and converts them into Binary Code that Computer's Processor can use to perform its Basic Operations.  
