@@ -10,7 +10,7 @@ The Assembler is a Software that converts an assembly language code to machine c
 ## How the program works
 the program is divided into two transitions each of them has different goals.  
 
-  #### the first transition  
+#### the first transition  
     1. check for errors in the input and if necessary create an error file with info about the error.  
       if an error occurred the second transition will not occur.
     2. build a symbol table, a symbol table is a data structure built like a table.  
