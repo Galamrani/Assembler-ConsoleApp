@@ -9,8 +9,7 @@ The Assembler is a Software that converts an assembly language code to machine c
 
 
 ## How the program works
-the program is divided into two transitions each of them having a different purpose. 
-
+the program is divided into two transitions each of them taking care of different parts of the program workflow
 
 #### the first transition  
 1. check for errors in the input file and if necessary create an error file with info about the error.  
