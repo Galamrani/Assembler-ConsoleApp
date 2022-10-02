@@ -1,6 +1,5 @@
 # Assembler-Console-App
-Assembler as console app program written in C.  this is a project in programming lab class, at the university.
-  
+Console app written in C that mimics an assembler, this is a project from a programming lab class, at the university.  
   
 ## About the program
 The Assembler is a Software that converts an assembly language code to machine code, it takes basic Computer commands and converts them into Binary Code that Computer's Processor can use to perform its Basic Operations.  
