@@ -22,8 +22,8 @@ the program is divided into two transitions each of them taking care of differen
       
 #### the second transition
 1. build the code segment and data segments using the symbol table and the input file commands.  
-  the code segment is goal is to store the binary code for each command that is identified as a code command.  
-      the data segment is to store the binary code for each command that identified as a data command.  
+  the code segment goal is to store the binary code for each command that is identified as a code command.  
+      the data segment goal is to store the binary code for each command that identified as a data command.  
             
 2. building the output files using the data segment, code segment, and symbol table.  
   there are 3 output files the first is ps.ob (machine code file) file that contains the binary code of the input file as hexadecimal code.  
