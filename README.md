@@ -17,7 +17,7 @@ the program is divided into two transitions each of them taking care of differen
 #### the first transition  
 1. check for errors in the input file and if necessary create an error file with info about the error.  
   if an error occurred the second transition will not occur.
-2. build a symbol table, the main goal is to store info about labels in the input file, like addras, values, etc, this info will help us in the second transition.
+2. build a symbol table, the symbol table main goal is to store info about labels in the input file, like addras, values, etc, this info will help us in the second transition.
       
       
 #### the second transition
