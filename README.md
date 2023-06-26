@@ -1,5 +1,5 @@
 # Assembler-Console-App
-The "Assembler-Console-App" is a console application written in C that emulates the functionality of an assembler. 
+The "Assembler-Console-App" is a console application written in C that emulates the functionality of an assembler.      
 Designed as a project for a programming lab class at the university, this application allows users to input low-level assembly language instructions and receive corresponding machine code as output. 
 By mimicking the behavior of an assembler, this project aims to provide a hands-on learning experience for understanding the translation process from assembly language to machine code. 
      <sub>
